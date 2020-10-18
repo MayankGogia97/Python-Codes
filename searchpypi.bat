@@ -1,0 +1,1 @@
+@py.exe G:\Codes\Python\searchpypi.py %*

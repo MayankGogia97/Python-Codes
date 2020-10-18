@@ -1,0 +1,1 @@
+@pyw.exe G:\Codes\Python\searchamazon.pyw %*
